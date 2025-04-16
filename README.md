@@ -1,4 +1,5 @@
 # thelmashop
+first you make sure you download the backend and the front end on the github... there are all under thelmashop 
 site is a shop build with php that can help you with sales and tracking of inventory
 you can use it for your hnd defense project at the university..
 buy me a very small coffee for encouragement $4
